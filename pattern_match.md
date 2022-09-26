@@ -1,5 +1,6 @@
 # Match a pattern without regex
 <hr>
+
 ## Inputs
 ### given string - can use input() for user test cases
 ### pattern to be found - can use input for user test cases
