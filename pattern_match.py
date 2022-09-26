@@ -1,5 +1,4 @@
 # Match a pattern without regex
-<hr>
 
 ## Inputs
 ### given string - can use input() for user test cases
@@ -10,7 +9,7 @@
 
 # solutions
 
-# Python
+# 1
 
 given_string = input()
 pattern = input()
